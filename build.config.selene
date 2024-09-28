@@ -1,5 +1,5 @@
 # Define Building
-BRANCH=niigo
+BRANCH=fts
 
 # Build Flags
 ARCH=arm64
